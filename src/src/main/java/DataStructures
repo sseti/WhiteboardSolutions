@@ -1,0 +1,19 @@
+Complexity
+1. input > 0
+2. functions do more work for more input
+3. drop all constants
+4. ignore lower order terms
+5. ignore the base of logs
+6. 2n = O(n)
+
+l, c - constant time
+log n - trees
+n - once per item
+n^2 - compare all v all
+n! - traveling sales
+
+Big Oh notation
+O - same or faster than n logn
+Little Oh - faster
+big omega - same or slower
+omega - slower
